@@ -1,0 +1,7 @@
+@inproceedings{REPO125,
+    author = "Liu, Weiyu and Paxton, Chris and Hermans, Tucker and Fox, Dieter",
+    booktitle = "2022 International Conference on Robotics and Automation (ICRA)",
+    pages = "6322--6329",
+    title = "{StructFormer: Learning Spatial Structure for Language-Guided Semantic Rearrangement of Novel Objects}",
+    year = "2022"
+}
